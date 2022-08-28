@@ -1,5 +1,7 @@
 # Novo-Nordisk-Challenge
 
+_**Track 1: Programming & Data Visualization**_
+
 **PROBLEM STATEMENT:**
 Data visualization is the representation of data using common graphics such as charts, plots, infographics.
 Visual displays of information communicate complex data relationships and data-driven insights in a way that is easy to understand.
