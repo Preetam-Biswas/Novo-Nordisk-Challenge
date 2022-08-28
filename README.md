@@ -1,4 +1,4 @@
-# Novo-Nordisk-Challenge
+# Novo-Nordisk-Challenge (Preliminary round)
 
 _**Track 1: Programming & Data Visualization**_
 
